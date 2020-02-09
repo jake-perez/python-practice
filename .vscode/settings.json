@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "testing-env/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
